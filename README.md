@@ -18,16 +18,16 @@ It is a responsive web design and can store all food order data with the help of
 ## Screenshots
 
 ### Food-Order-App
-![App Screenshot](https://github.com/yashpd6634/Food-Order-App/blob/master/screenshots/Food-order-app.png?raw=true)
+![Food-order-app](https://github.com/yashpd6634/Food-Order-App/assets/79068825/af6768f1-c40d-49aa-af0c-ed6c6a23716e)
 
 ### Menu
-![App Screenshot](https://github.com/yashpd6634/Food-Order-App/blob/master/screenshots/Menu.png?raw=true)
+![Menu](https://github.com/yashpd6634/Food-Order-App/assets/79068825/4cd86cef-9191-4f70-859b-373d4704c026)
 
 ### Order Food
-![App Screenshot](https://github.com/yashpd6634/Food-Order-App/blob/master/screenshots/Order-food.png?raw=true)
+![Order-food](https://github.com/yashpd6634/Food-Order-App/assets/79068825/cf556747-0125-47e9-ae25-5f4ca39b29ea)
 
 ### Address and Billing
-![App Screenshot](https://github.com/yashpd6634/Food-Order-App/blob/master/screenshots/Address-billing.png?raw=true)
+![Address-billing](https://github.com/yashpd6634/Food-Order-App/assets/79068825/c1bfb9cc-d1d3-4c97-ad74-4fc2a0060098)
 
 ### Successful-order
-![App Screenshot](https://github.com/yashpd6634/Food-Order-App/blob/master/screenshots/Successful-order.png?raw=true)
+![Successful-order](https://github.com/yashpd6634/Food-Order-App/assets/79068825/679d17a9-2bd8-48db-b6eb-70e3c10802ee)
